@@ -1,0 +1,1 @@
+var="This is a text file"
